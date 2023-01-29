@@ -7,7 +7,7 @@ We have developed a tool to assist users in implementing the first method outlin
 - Erase entries to the hosts file when disabled
 
 **How-to set up**
-Kindly navigate to the file BattleNetHosts.cs, and locate line 8, where you will find the constant "BattleHostname". It is recommended to change it to your preferred hostname or IP address. Hostname is preferred.
+Kindly navigate to the file `BattleNetHosts.cs`, and locate line 8, where you will find the constant `BattleHostname`. It is recommended to change it to your preferred hostname or IP address. *Hostname is preferred.*
 Example:
 
 ```csharp
