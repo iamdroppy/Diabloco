@@ -1,5 +1,7 @@
 We have developed a tool to assist users in implementing the first method outlined in the forum post located at the following URL: https://forum.ragezone.com/f1034/open-source-blizzless-diablo-iii-1210902/. This tool, which is a simple Windows Form application, allows for the modification of the hosts file to write or erase the battle.net entry. We are currently in the process of developing a second tool to assist with the second method outlined in the same forum post, which involves binary patching. Both tools are meant for easier distribution.
 
+_It is important to note that the purpose of this tool is to provide a simple and efficient means of modifying the hosts file for those who desire to quickly switch between a modded and retail game mode or for the purpose of redistribution without the need for manual modification of the hosts file. The tool's code is straightforward and intended for basic use._
+
 **Features**
 
 - Resolve the IP address from a given hostname
