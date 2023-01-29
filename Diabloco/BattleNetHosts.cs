@@ -5,7 +5,7 @@ namespace Diabloco;
 
 public class BattleNetHosts
 {
-    private const string BattleHostname = "YOUR-HOSTNAME-OR-IP-HERE";
+    private const string BattleHostname = "127.0.0.1";
     private const string HostsFile = @"C:\WINDOWS\system32\drivers\etc\hosts";
     private readonly ILanguage _language;
 
@@ -67,8 +67,7 @@ public class BattleNetHosts
             {
                 var line = entry.Trim();
                 if (line.Contains("battle.net") || line.Contains("Battle.NET Hosts"))
-                    if (!line.StartsWith("#") && !line.StartsWith(";"))
-                        continue;
+                    continue;
                 
                 newFile.Add(line);
             }
