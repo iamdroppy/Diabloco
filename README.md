@@ -1,4 +1,4 @@
-We have developed a tool to assist users in implementing the first method outlined in the forum post located at the following URL: [url]https://forum.ragezone.com/f1034/open-source-blizzless-diablo-iii-1210902/[/url]. This tool, which is a simple Windows Form application, allows for the modification of the hosts file to write or erase the battle.net entry. We are currently in the process of developing a second tool to assist with the second method outlined in the same forum post, which involves binary patching. Both tools are meant for easier distribution.
+We have developed a tool to assist users in implementing the first method outlined in the forum post located at the following URL: https://forum.ragezone.com/f1034/open-source-blizzless-diablo-iii-1210902/. This tool, which is a simple Windows Form application, allows for the modification of the hosts file to write or erase the battle.net entry. We are currently in the process of developing a second tool to assist with the second method outlined in the same forum post, which involves binary patching. Both tools are meant for easier distribution.
 
 **Features**
 
