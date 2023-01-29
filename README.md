@@ -10,6 +10,8 @@ We have developed a tool to assist users in implementing the first method outlin
 
 *Note: Run as an Administrator.*
 
+For those interested in experiencing local gameplay, in which both the client and server are residing on the same machine, please proceed to the following link to obtain the latest compiled binaries for the Windows (x86) operating system: https://github.com/iamdroppy/Diabloco/releases/download/local/win-x86.zip
+
 Kindly navigate to the file `BattleNetHosts.cs`, and locate line 8, where you will find the constant `BattleHostname`. It is recommended to change it to your preferred hostname or IP address. *Hostname is preferred.*
 Example:
 
